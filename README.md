@@ -34,7 +34,7 @@ $scope.add=function(num1,num2)
 
 }
 
-
+});
 
 OutPut:
 
@@ -43,6 +43,7 @@ Number 1 : 40
 Number 2 : 20
 Total:60
 
-});
+
+
 
 
